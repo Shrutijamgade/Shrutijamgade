@@ -7,24 +7,16 @@
 ###  📖 About me 
 I am a software developer. I currently work on backend and frontend development for web applications and PaaS platform tools. I intend to use this place to record any side projects that I'm working on and also to look for opportunities to contribute to open source. Thanks for visiting and feel free to connect with me!
 
-<!--Here are some ideas to get you started: 👋-->
-<!-- - 🔭 I’m currently working on ... -->
-
 - 🌱 I’m currently learning  <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
-<!-- ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ! -->
 
 - 👯 I’m looking to collaborate on full stack web apps.
-
-<!-- - 🤔 I’m looking for help on how to contribute to open -->
 
 - 💬 Ask me about Web Development. I am always available to help and open to learning new things from you.
 
 - 📫 How to reach me:
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Shruti#3895 </a>
 
-<!-- - 😄🧐 Pronouns: ... -->
-
-- ⚡ Fun fact: There are 10 types of people in the world. Those who get Binary and those who don't..
+- ⚡ Fun fact: There are 10 types of people in the world. Those who get Binary and those who don't...
 
 ### 👨🏻‍💻 Languages and Technologies
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
