@@ -15,6 +15,7 @@ I am a software developer. I currently work on backend and frontend development 
 
 - 📫 How to reach me:
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Shruti#3895 </a>
+   - <a href="https://www.linkedin.com/in/shruti-jamgade/"> LinkedIn </a>
 
 - ⚡ Fun fact: There are 10 types of people in the world. Those who get Binary and those who don't...
 
@@ -30,7 +31,13 @@ I am a software developer. I currently work on backend and frontend development 
  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+[![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+
+[![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/about/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=Express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=red)](https://www.postman.com/)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 
